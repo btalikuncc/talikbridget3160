@@ -9,9 +9,10 @@ Bridget Talik
   <p><em>Link to how the users, delivery drivers, and the system will interact.</em></p>
   
 <h3>Business Rules</h3>
-  <p><em>define specific instructions or constraints on how certain day-to-day actions should be performed.</em></p>
+  <p><em>Define specific instructions or constraints on how certain day-to-day actions should be performed.</em></p>
 
 <h3>EERD</h3>
+ <p><em>Define the relationship between the different types of people (Drivers, Faculty, Staff, Students, etc), the Locations, and the orders made.</em></p>
 
 <h3>MySQL Queries (three)</h3>
 
