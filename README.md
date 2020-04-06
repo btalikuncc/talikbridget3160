@@ -15,11 +15,16 @@ Bridget Talik
  <p><em>Define the relationship between the different types of people (Drivers, Faculty, Staff, Students, etc), the Locations, and the orders made.</em></p>
 
 <h3>MySQL Queries (three)</h3>
+ <p><em>Will create 3 query statments to retreive data from the database once created.</em></p>
 
 <h3>Trigger</h3>
+ <p><em>A procedure that will initiate an action (ex. INSERT, DELETE, UPDATE) in the database.</em></p>
 
 <h3>Stored Procedure</h3>
+ <p><em>A set of SQL statements that can be stored in a database, then can be reused and shared by multiple programs.</em></p>
 
 <h3>Description of Future Work</h3>
+ <p><em>Any additional work that will potentially be done in the future.</em></p>
 
 <h3>MySQL dump</h3>
+ <p><em>Used to backup or transfer one SQL database to another server.</em></p>
