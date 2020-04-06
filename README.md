@@ -1,6 +1,5 @@
 Bridget Talik
-
-//Write descriptions 
+ 
 <h2>Table of Contents</h2>
 
 <h3>Introduction:</h3> 
@@ -10,6 +9,7 @@ Bridget Talik
   <p><em>Link to how the users, delivery drivers, and the system will interact.</em></p>
   
 <h3>Business Rules</h3>
+  <p><em>define specific instructions or constraints on how certain day-to-day actions should be performed.</em></p>
 
 <h3>EERD</h3>
 
