@@ -7,7 +7,7 @@ Bridget Talik
   
 <h3>Use Case:</h3>
   <p><em>Link to how the users, delivery drivers, and the system will interact.</em></p>
-  ![Use Case Image](/talikbridget3160/3160UseCase.png)
+  ![Use Case Image](https://github.com/btalikuncc/talikbridget3160/blob/master/3160UseCase.png)
   
 <h3>Business Rules</h3>
   <p><em>Define specific instructions or constraints on how certain day-to-day actions should be performed.</em></p>
