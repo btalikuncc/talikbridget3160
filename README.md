@@ -11,6 +11,7 @@ Bridget Talik
   
 <h3>Business Rules</h3>
   <p><em>Define specific instructions or constraints on how certain day-to-day actions should be performed.</em></p>
+  <ul><li>Only students can be delivery drivers.</li><li>Only students, faculty, and staff can order food from the delivery serivce.</li><li>Drivers must deliver food at the specified location.</li><li>Both Drivers and Resturants must apply and be acepted into the delivery service.</li><li>Drivers must have a valid drivers license and car.</li></ul>
 
 <h3>EERD</h3>
  <p><em>Define the relationship between the different types of people (Drivers, Faculty, Staff, Students, etc), the Locations, and the orders made.</em></p>
