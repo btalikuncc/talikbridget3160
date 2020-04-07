@@ -3,7 +3,7 @@ Bridget Talik
 <h2>Table of Contents</h2>
 
 <h3>Introduction:</h3> 
-  <p><em>In this project, I will be building a database for a campus controlled food delivery service.</em></p>
+  <p><em>In this project, I will be building a database for a campus controlled food delivery service. It will hold information about the delivery drivers (who will exclusively be students, faculty, or staff), the customers, and the resturants participating in the service. It will link all these entities together to show how the flow of service moves from each part.</em></p>
   
 <h3>Use Case:</h3>
   <p><em>Link to how the users, delivery drivers, and the system will interact.</em></p>
