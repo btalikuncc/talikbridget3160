@@ -5,6 +5,9 @@ Bridget Talik
 <h3>Introduction:</h3> 
   <p><em>In this project, I will be building a database for a campus controlled food delivery service. It will hold information about the delivery drivers (who will exclusively be students, faculty, or staff), the customers, and the resturants participating in the service. It will link all these entities together to show how the flow of service moves from each part.</em></p>
   
+<h3>Video Demonstration:</h3>
+  <a href="">Click here to access YouTube video.</a>
+  
 <h3>Use Case:</h3>
   <p><em>Link to how the users, delivery drivers, and the system will interact.</em></p>
   <img src="https://github.com/btalikuncc/talikbridget3160/blob/master/Images/3160UseCasev2.png" title="Use Case Image">
